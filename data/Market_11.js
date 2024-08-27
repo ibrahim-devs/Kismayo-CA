@@ -1,0 +1,1 @@
+var json_Market_11 = {"type":"FeatureCollection","name":"Market_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"infrastruc":"Market","Name":"Suqa Kaabada","latitude":-0.34402,"longitude":42.53017},"geometry":{"type":"Point","coordinates":[42.530161761241224,-0.344092503864061]}}]}
